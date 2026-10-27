@@ -1,0 +1,986 @@
+{
+  "filters": {
+    "dates": [
+      "2026-10-25",
+      "2026-10-26",
+      "2026-10-27",
+      "2026-10-28",
+      "2026-10-29",
+      "2026-10-30",
+      "2026-10-31",
+      "2026-11-01"
+    ],
+    "themes": [
+      {
+        "key": "presencial",
+        "label": "Presencial",
+        "count": 544
+      },
+      {
+        "key": "gratuito",
+        "label": "Gratuito",
+        "count": 537
+      },
+      {
+        "key": "spanish",
+        "label": "Spanish",
+        "count": 370
+      },
+      {
+        "key": "english-and-spanish",
+        "label": "English and Spanish",
+        "count": 180
+      },
+      {
+        "key": "learning",
+        "label": "Learning",
+        "count": 171
+      },
+      {
+        "key": "networking",
+        "label": "Networking",
+        "count": 152
+      },
+      {
+        "key": "artificial-intelligence",
+        "label": "Artificial Intelligence",
+        "count": 151
+      },
+      {
+        "key": "other",
+        "label": "Other",
+        "count": 112
+      },
+      {
+        "key": "general-tech",
+        "label": "General Tech",
+        "count": 105
+      },
+      {
+        "key": "community-building",
+        "label": "Community building",
+        "count": 96
+      },
+      {
+        "key": "fintech",
+        "label": "Fintech",
+        "count": 42
+      },
+      {
+        "key": "hibrido",
+        "label": "Híbrido",
+        "count": 41
+      },
+      {
+        "key": "brand-awareness",
+        "label": "Brand awareness",
+        "count": 37
+      },
+      {
+        "key": "english",
+        "label": "English",
+        "count": 33
+      },
+      {
+        "key": "mind-body",
+        "label": "Mind & body",
+        "count": 33
+      },
+      {
+        "key": "healthtech",
+        "label": "Healthtech",
+        "count": 31
+      },
+      {
+        "key": "hr-future-of-work",
+        "label": "HR / Future of Work",
+        "count": 31
+      },
+      {
+        "key": "de-paga",
+        "label": "De paga",
+        "count": 27
+      },
+      {
+        "key": "gratuito-con-consumo",
+        "label": "Gratuito con consumo",
+        "count": 25
+      },
+      {
+        "key": "partnerships",
+        "label": "Partnerships",
+        "count": 24
+      },
+      {
+        "key": "inspiration",
+        "label": "Inspiration",
+        "count": 23
+      },
+      {
+        "key": "saas-cloud",
+        "label": "SaaS / Cloud",
+        "count": 16
+      },
+      {
+        "key": "social-gathering",
+        "label": "Social gathering",
+        "count": 14
+      },
+      {
+        "key": "fundraising",
+        "label": "Fundraising",
+        "count": 13
+      },
+      {
+        "key": "arttech",
+        "label": "ArtTech",
+        "count": 12
+      },
+      {
+        "key": "legal-tech",
+        "label": "Legal Tech",
+        "count": 11
+      },
+      {
+        "key": "cybersecurity",
+        "label": "Cybersecurity",
+        "count": 10
+      },
+      {
+        "key": "e-commerce",
+        "label": "E-commerce",
+        "count": 9
+      },
+      {
+        "key": "edtech",
+        "label": "Edtech",
+        "count": 9
+      },
+      {
+        "key": "gaming-entertainment",
+        "label": "Gaming / Entertainment",
+        "count": 7
+      },
+      {
+        "key": "hiring-talent",
+        "label": "Hiring & talent",
+        "count": 7
+      },
+      {
+        "key": "mobilitytech",
+        "label": "Mobilitytech",
+        "count": 7
+      },
+      {
+        "key": "climate-sustainability",
+        "label": "Climate / Sustainability",
+        "count": 6
+      },
+      {
+        "key": "foodtech",
+        "label": "Foodtech",
+        "count": 6
+      },
+      {
+        "key": "product-feedback",
+        "label": "Product feedback",
+        "count": 6
+      },
+      {
+        "key": "blockchain-web3-crypto",
+        "label": "Blockchain / Web3 / Crypto",
+        "count": 5
+      },
+      {
+        "key": "contech",
+        "label": "Contech",
+        "count": 5
+      },
+      {
+        "key": "deep-tech-hardware",
+        "label": "Deep Tech / Hardware",
+        "count": 5
+      },
+      {
+        "key": "espanol",
+        "label": "Español",
+        "count": 5
+      },
+      {
+        "key": "deal-flow",
+        "label": "Deal flow",
+        "count": 3
+      },
+      {
+        "key": "proptech-real-estate",
+        "label": "Proptech / Real Estate",
+        "count": 3
+      },
+      {
+        "key": "agtech",
+        "label": "Agtech",
+        "count": 2
+      },
+      {
+        "key": "logistics",
+        "label": "Logistics",
+        "count": 2
+      },
+      {
+        "key": "entrepreneurship-startups",
+        "label": "Entrepreneurship / Startups",
+        "count": 1
+      },
+      {
+        "key": "founders",
+        "label": "Founders",
+        "count": 1
+      },
+      {
+        "key": "ingles",
+        "label": "Inglés",
+        "count": 1
+      }
+    ],
+    "formats": [
+      {
+        "key": "workshop",
+        "label": "Workshop",
+        "count": 119
+      },
+      {
+        "key": "panel",
+        "label": "Panel",
+        "count": 112
+      },
+      {
+        "key": "networking",
+        "label": "Networking",
+        "count": 75
+      },
+      {
+        "key": "masterclass",
+        "label": "Masterclass",
+        "count": 43
+      },
+      {
+        "key": "keynote",
+        "label": "Keynote",
+        "count": 38
+      },
+      {
+        "key": "meetup",
+        "label": "Meetup",
+        "count": 34
+      },
+      {
+        "key": "wellness-session",
+        "label": "Wellness Session",
+        "count": 31
+      },
+      {
+        "key": "cocktail",
+        "label": "Cocktail",
+        "count": 26
+      },
+      {
+        "key": "fireside-chat",
+        "label": "Fireside Chat",
+        "count": 18
+      },
+      {
+        "key": "demo-day",
+        "label": "Demo Day",
+        "count": 13
+      },
+      {
+        "key": "dinner",
+        "label": "Dinner",
+        "count": 13
+      },
+      {
+        "key": "rooftop-social",
+        "label": "Rooftop / Social",
+        "count": 11
+      },
+      {
+        "key": "hackathon",
+        "label": "Hackathon",
+        "count": 10
+      },
+      {
+        "key": "pitch-session",
+        "label": "Pitch Session",
+        "count": 10
+      },
+      {
+        "key": "mixer",
+        "label": "Mixer",
+        "count": 9
+      },
+      {
+        "key": "conference",
+        "label": "Conference",
+        "count": 2
+      },
+      {
+        "key": "desayuno",
+        "label": "Desayuno",
+        "count": 2
+      },
+      {
+        "key": "book-release",
+        "label": "Book Release",
+        "count": 1
+      },
+      {
+        "key": "brunch",
+        "label": "Brunch",
+        "count": 1
+      },
+      {
+        "key": "business-breakfast-live-demo",
+        "label": "Business Breakfast & Live Demo",
+        "count": 1
+      },
+      {
+        "key": "class",
+        "label": "CLASS",
+        "count": 1
+      },
+      {
+        "key": "co-working",
+        "label": "Co-working",
+        "count": 1
+      },
+      {
+        "key": "comedy-night",
+        "label": "Comedy Night",
+        "count": 1
+      },
+      {
+        "key": "competence",
+        "label": "competence",
+        "count": 1
+      },
+      {
+        "key": "competencia",
+        "label": "Competencia",
+        "count": 1
+      },
+      {
+        "key": "f1-experience-with-fireside-chat-and-networking",
+        "label": "F1 Experience with Fireside Chat and Networking",
+        "count": 1
+      },
+      {
+        "key": "general-conference",
+        "label": "General conference",
+        "count": 1
+      },
+      {
+        "key": "incluye-keynotes-workshops-paneles-clinicas-1-1-y-networking",
+        "label": "Incluye Keynotes, workshops, paneles, clínicas 1:1 y networking",
+        "count": 1
+      },
+      {
+        "key": "interactive-technology-experience-or-immersive-human-performance-experience",
+        "label": "Interactive technology experience or Immersive Human Performance Experience",
+        "count": 1
+      },
+      {
+        "key": "mesa-de-discusion",
+        "label": "Mesa de discusión",
+        "count": 1
+      },
+      {
+        "key": "panel-networking",
+        "label": "Panel & Networking",
+        "count": 1
+      },
+      {
+        "key": "panel-cocktail-reception",
+        "label": "Panel + Cocktail Reception",
+        "count": 1
+      },
+      {
+        "key": "panel-startup-showcase-networking-mentoring",
+        "label": "Panel + startup showcase + networking + mentoring",
+        "count": 1
+      },
+      {
+        "key": "panel-in-ibero-with-nvidia-keynote-in-centro-with-aws-workshop-in-qualcomm-with-qualcomm-cocktail-with-cerebras",
+        "label": "Panel in Ibero with Nvidia, Keynote in Centro with AWS, workshop in Qualcomm with Qualcomm , Cocktail with Cerebras",
+        "count": 1
+      },
+      {
+        "key": "pop-up-food-legal-tech",
+        "label": "Pop Up Food - Legal Tech",
+        "count": 1
+      },
+      {
+        "key": "power-pause-networking",
+        "label": "Power Pause + Networking",
+        "count": 1
+      },
+      {
+        "key": "reverse-pitch",
+        "label": "Reverse pitch",
+        "count": 1
+      },
+      {
+        "key": "runspiring",
+        "label": "Runspiring",
+        "count": 1
+      },
+      {
+        "key": "tasting",
+        "label": "Tasting",
+        "count": 1
+      },
+      {
+        "key": "trade-fair",
+        "label": "Trade Fair",
+        "count": 1
+      }
+    ],
+    "neighborhoods": [
+      {
+        "key": "juarez",
+        "label": "Juárez",
+        "count": 143
+      },
+      {
+        "key": "condesa",
+        "label": "Condesa",
+        "count": 45
+      },
+      {
+        "key": "roma-nte",
+        "label": "Roma Nte.",
+        "count": 36
+      },
+      {
+        "key": "cuauhtemoc",
+        "label": "Cuauhtémoc",
+        "count": 15
+      },
+      {
+        "key": "polanco-iv-seccion",
+        "label": "Polanco IV Sección",
+        "count": 14
+      },
+      {
+        "key": "lomas-de-chapultepec",
+        "label": "Lomas de Chapultepec",
+        "count": 12
+      },
+      {
+        "key": "veronica-anzures",
+        "label": "Verónica Anzúres",
+        "count": 8
+      },
+      {
+        "key": "granada",
+        "label": "Granada",
+        "count": 6
+      },
+      {
+        "key": "hipodromo",
+        "label": "Hipódromo",
+        "count": 5
+      },
+      {
+        "key": "polanco-iii-seccion",
+        "label": "Polanco III Sección",
+        "count": 5
+      },
+      {
+        "key": "bosque-de-chapultepec-i-seccion",
+        "label": "Bosque de Chapultepec I Sección",
+        "count": 4
+      },
+      {
+        "key": "hipodromo-condesa",
+        "label": "Hipódromo Condesa",
+        "count": 4
+      },
+      {
+        "key": "lomas-de-chapultepec-iii-seccion",
+        "label": "Lomas de Chapultepec III Sección",
+        "count": 4
+      },
+      {
+        "key": "polanco-v-seccion",
+        "label": "Polanco V Sección",
+        "count": 4
+      },
+      {
+        "key": "escandon-i-seccion",
+        "label": "Escandón I Sección",
+        "count": 3
+      },
+      {
+        "key": "guadalupe-tlalpan",
+        "label": "Guadalupe Tlalpan",
+        "count": 3
+      },
+      {
+        "key": "napoles",
+        "label": "Nápoles",
+        "count": 3
+      },
+      {
+        "key": "san-bartolo-el-chico",
+        "label": "San Bartolo el Chico",
+        "count": 3
+      },
+      {
+        "key": "zedec-sta-fe",
+        "label": "Zedec Sta Fé",
+        "count": 3
+      },
+      {
+        "key": "america",
+        "label": "América",
+        "count": 2
+      },
+      {
+        "key": "amp-granada",
+        "label": "Amp Granada",
+        "count": 2
+      },
+      {
+        "key": "anahuac-i-seccion",
+        "label": "Anáhuac I Sección",
+        "count": 2
+      },
+      {
+        "key": "del-valle",
+        "label": "Del Valle",
+        "count": 2
+      },
+      {
+        "key": "polanco-i-seccion",
+        "label": "Polanco I Sección",
+        "count": 2
+      },
+      {
+        "key": "tabacalera",
+        "label": "Tabacalera",
+        "count": 2
+      },
+      {
+        "key": "anzures",
+        "label": "Anzures",
+        "count": 1
+      },
+      {
+        "key": "arboledas-del-sur",
+        "label": "Arboledas del Sur",
+        "count": 1
+      },
+      {
+        "key": "atlamaya",
+        "label": "Atlamaya",
+        "count": 1
+      },
+      {
+        "key": "centro-historico-de-la-cdad-de-mexico",
+        "label": "Centro Histórico de la Cdad. de México",
+        "count": 1
+      },
+      {
+        "key": "coyoacan",
+        "label": "Coyoacán",
+        "count": 1
+      },
+      {
+        "key": "del-valle-centro",
+        "label": "del Valle Centro",
+        "count": 1
+      },
+      {
+        "key": "dle-valle",
+        "label": "dle Valle",
+        "count": 1
+      },
+      {
+        "key": "el-parque",
+        "label": "El Parque",
+        "count": 1
+      },
+      {
+        "key": "insurgentes-cuicuilco",
+        "label": "Insurgentes Cuicuilco",
+        "count": 1
+      },
+      {
+        "key": "irrigacion",
+        "label": "Irrigación",
+        "count": 1
+      },
+      {
+        "key": "la-carbonera",
+        "label": "La Carbonera",
+        "count": 1
+      },
+      {
+        "key": "lomas-de-chapultepec-ii-seccion",
+        "label": "Lomas de Chapultepec II Sección",
+        "count": 1
+      },
+      {
+        "key": "lomas-de-santa-fe",
+        "label": "Lomas de Santa Fe",
+        "count": 1
+      },
+      {
+        "key": "narvarte-poniente",
+        "label": "Narvarte Poniente",
+        "count": 1
+      },
+      {
+        "key": "nonoalco",
+        "label": "Nonoalco",
+        "count": 1
+      },
+      {
+        "key": "nonoalco-tlatelolco",
+        "label": "Nonoalco-Tlatelolco",
+        "count": 1
+      },
+      {
+        "key": "progreso-tizapan",
+        "label": "Progreso Tizapán",
+        "count": 1
+      },
+      {
+        "key": "providencia",
+        "label": "Providencia",
+        "count": 1
+      },
+      {
+        "key": "residencial-lomas-de-sotelo",
+        "label": "Residencial Lomas de Sotelo",
+        "count": 1
+      },
+      {
+        "key": "roma-norte",
+        "label": "Roma Norte",
+        "count": 1
+      },
+      {
+        "key": "roma-sur",
+        "label": "Roma Sur",
+        "count": 1
+      },
+      {
+        "key": "romero-rubio",
+        "label": "Romero Rubio",
+        "count": 1
+      },
+      {
+        "key": "san-angel",
+        "label": "San Ángel",
+        "count": 1
+      },
+      {
+        "key": "san-jeronimo",
+        "label": "San Jerónimo",
+        "count": 1
+      },
+      {
+        "key": "san-lucas",
+        "label": "San Lucas",
+        "count": 1
+      },
+      {
+        "key": "san-miguel-chapultepec-i-seccion",
+        "label": "San Miguel Chapultepec I Sección",
+        "count": 1
+      },
+      {
+        "key": "san-miguel-chapultepec-ii-seccion",
+        "label": "San Miguel Chapultepec II Sección",
+        "count": 1
+      },
+      {
+        "key": "san-pedro-de-los-pinos",
+        "label": "San Pedro de los Pinos",
+        "count": 1
+      },
+      {
+        "key": "santa-fe",
+        "label": "Santa Fe",
+        "count": 1
+      },
+      {
+        "key": "tepeyac-insurgentes",
+        "label": "Tepeyac Insurgentes",
+        "count": 1
+      },
+      {
+        "key": "vertiz-narvarte",
+        "label": "Vértiz Narvarte",
+        "count": 1
+      },
+      {
+        "key": "xoco",
+        "label": "Xoco",
+        "count": 1
+      }
+    ],
+    "houses": [
+      {
+        "key": "founders-investors",
+        "label": "founders-investors",
+        "count": 69
+      },
+      {
+        "key": "wellness",
+        "label": "wellness",
+        "count": 38
+      },
+      {
+        "key": "ai-house",
+        "label": "ai-house",
+        "count": 34
+      },
+      {
+        "key": "dev-house",
+        "label": "dev-house",
+        "count": 28
+      },
+      {
+        "key": "deep-tech",
+        "label": "deep-tech",
+        "count": 13
+      }
+    ],
+    "languages": [
+      {
+        "key": "spanish",
+        "label": "Spanish",
+        "count": 370
+      },
+      {
+        "key": "english-and-spanish",
+        "label": "English and Spanish",
+        "count": 180
+      },
+      {
+        "key": "english",
+        "label": "English",
+        "count": 33
+      },
+      {
+        "key": "espanol",
+        "label": "Español",
+        "count": 5
+      },
+      {
+        "key": "ingles",
+        "label": "Inglés",
+        "count": 1
+      }
+    ],
+    "audiences": [
+      {
+        "key": "startup-founder-early-stage",
+        "label": "Startup Founder (Early Stage)",
+        "count": 303
+      },
+      {
+        "key": "c-level-executive-tech-ops",
+        "label": "C-Level Executive (Tech & Ops)",
+        "count": 261
+      },
+      {
+        "key": "venture-capitalist-angel-investor",
+        "label": "Venture Capitalist / Angel Investor",
+        "count": 167
+      },
+      {
+        "key": "sme-founder-pyme",
+        "label": "SME Founder (PyME)",
+        "count": 149
+      },
+      {
+        "key": "corporate-innovator",
+        "label": "Corporate Innovator",
+        "count": 137
+      },
+      {
+        "key": "general-public-curious-mind",
+        "label": "General Public / Curious Mind",
+        "count": 111
+      },
+      {
+        "key": "tech-enthusiast-maker",
+        "label": "Tech Enthusiast / Maker",
+        "count": 91
+      },
+      {
+        "key": "developer-full-stack-frontend-backend",
+        "label": "Developer (Full Stack / Frontend / Backend)",
+        "count": 84
+      },
+      {
+        "key": "women-in-tech",
+        "label": "Women in Tech",
+        "count": 77
+      },
+      {
+        "key": "sponsor-strategic-partner",
+        "label": "Sponsor / Strategic Partner",
+        "count": 73
+      },
+      {
+        "key": "marketing-leader",
+        "label": "Marketing Leader",
+        "count": 54
+      },
+      {
+        "key": "crm-product-growth-manager",
+        "label": "CRM / Product / Growth Manager",
+        "count": 48
+      },
+      {
+        "key": "student",
+        "label": "Student",
+        "count": 38
+      },
+      {
+        "key": "low-code-no-code-builder",
+        "label": "Low-Code / No-Code Builder",
+        "count": 26
+      },
+      {
+        "key": "sales-professional",
+        "label": "Sales Professional",
+        "count": 22
+      },
+      {
+        "key": "alumni-graduate",
+        "label": "Alumni (Graduate)",
+        "count": 18
+      },
+      {
+        "key": "social-media-strategist",
+        "label": "Social Media Strategist",
+        "count": 14
+      },
+      {
+        "key": "white-hat-hacker-cybersecurity-expert",
+        "label": "White Hat Hacker / Cybersecurity Expert",
+        "count": 12
+      },
+      {
+        "key": "digital-nomad",
+        "label": "Digital Nomad",
+        "count": 7
+      }
+    ],
+    "costs": [
+      {
+        "key": "gratuito",
+        "label": "Gratuito",
+        "count": 537
+      },
+      {
+        "key": "de-paga",
+        "label": "De paga",
+        "count": 27
+      },
+      {
+        "key": "gratuito-con-consumo",
+        "label": "Gratuito con consumo",
+        "count": 25
+      }
+    ],
+    "modalities": [
+      {
+        "key": "in-person",
+        "label": "in-person",
+        "count": 548
+      },
+      {
+        "key": "hybrid",
+        "label": "hybrid",
+        "count": 41
+      }
+    ],
+    "status": [
+      {
+        "key": "open",
+        "label": "Disponible",
+        "count": 190
+      },
+      {
+        "key": "abre-pronto",
+        "label": "Abre pronto",
+        "count": 133
+      },
+      {
+        "key": "casi-lleno",
+        "label": "Casi lleno",
+        "count": 129
+      },
+      {
+        "key": "lista-espera",
+        "label": "Lista de espera",
+        "count": 112
+      },
+      {
+        "key": "agotado",
+        "label": "Agotado",
+        "count": 25
+      }
+    ],
+    "registration": [
+      {
+        "key": "open",
+        "label": "open",
+        "count": 312
+      },
+      {
+        "key": "waitlist",
+        "label": "waitlist",
+        "count": 112
+      },
+      {
+        "key": "closed",
+        "label": "closed",
+        "count": 111
+      },
+      {
+        "key": "unknown",
+        "label": "unknown",
+        "count": 54
+      }
+    ],
+    "occupancy": [
+      {
+        "key": "plenty",
+        "label": "plenty",
+        "count": 330
+      },
+      {
+        "key": "at-or-over-declared-capacity",
+        "label": "at_or_over_declared_capacity",
+        "count": 122
+      },
+      {
+        "key": "unknown",
+        "label": "unknown",
+        "count": 96
+      },
+      {
+        "key": "filling",
+        "label": "filling",
+        "count": 41
+      }
+    ]
+  }
+}

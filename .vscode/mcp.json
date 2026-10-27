@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "mexico-tech-week": {
+      "type": "http",
+      "url": "https://app.mexicotechweek.mx/api/mcp"
+    }
+  }
+}
